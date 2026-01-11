@@ -201,7 +201,7 @@ Always ensure your messaging activities comply with WhatsApp's Terms of Service.
 
 ---
 
-## 👨‍�� Author
+## 👨‍💻 Author
 
 **Pratyaksh Gupta**  
 _Made with ❤️ using Python, Selenium, and GPT-powered assistance._
